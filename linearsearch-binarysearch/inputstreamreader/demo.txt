@@ -1,0 +1,6 @@
+Hello, this is a sample text file.
+It contains multiple lines.
+Each line will be read and printed.
+1234567890
+!@#$%^&*()_+
+Java file reading test.
